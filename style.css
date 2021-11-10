@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: lightcoral;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 5px;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+  
+label{
+    color: lightcoral;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  border-color: #5BC0DE;
+}
+
+button , #start_webcam{
+    background-color: #5BC0DE;
+    font-family: 'Roboto', sans-serif;
+    size: 20px;
+    color: white;
+}
